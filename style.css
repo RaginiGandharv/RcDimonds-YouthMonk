@@ -3,9 +3,6 @@
     padding: 0;
     user-select: none;
 }
-#myslider{
-    border: 2px solid rebeccapurple;
-}
 #slider{
     width: 700px;
     height: 500px;
